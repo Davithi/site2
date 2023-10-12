@@ -26,6 +26,7 @@ const Sidebar = () => {
                 </NavLink>
               </li>
             );
+      return <></>
           })}
         </ul>
       </nav>
