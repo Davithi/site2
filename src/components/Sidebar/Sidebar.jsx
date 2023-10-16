@@ -22,7 +22,7 @@ const Sidebar = () => {
                   }
                   to={`/categories/${id}`}
                 >
-                  {name}
+                  {name}2
                 </NavLink>
               </li>
             );
